@@ -16,3 +16,17 @@ Solution images for a):
 |img2|
 |----|
 |![res3](https://github.com/iop33/polynomialRegression/assets/73648382/de0a3a37-b55a-4436-abbc-e7c94ecc81e4)|
+
+Solution images for b):
+|score|
+|-----|
+|![res1](https://github.com/iop33/polynomialRegression/assets/73648382/92d33ea2-f4ef-4ece-9ec6-dbb620cf1931)|
+
+|img1|
+|----|
+|![res2](https://github.com/iop33/polynomialRegression/assets/73648382/cde39119-2b09-4cd7-a224-7a56a8761556)|
+
+
+|img2|
+|----|
+|![res3](https://github.com/iop33/polynomialRegression/assets/73648382/013c8519-db28-46fd-be51-57e287767105)|
